@@ -1,0 +1,1 @@
+> **Kairosd** is your productivity timekeeper — a background service that connects task managers with real-time events, transforming scattered tools into a unified system aware of both time and tasks.
